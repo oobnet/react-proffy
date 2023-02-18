@@ -1,1 +1,5 @@
-# react-proffy
+# PROJETO DESENVOLVINDO NA rocketseat
+* react-proffy
+1 backend NODEJS;
+2 FRONTEND REACTJS;
+3 APP MOBILE REACTNATIVE;
